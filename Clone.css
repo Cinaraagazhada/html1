@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.app_header_navbar>li>a{
+    display: inline-block;
+    font-size: 25px;
+    margin: 10px 100px;
+    margin-left: 120px;
+    text-decoration: none;
+    color: #000;
+    
+}
+.app_header_navbar>li{
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+}
+.main_tittle1{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.main_button{
+    text-align: center;
+}
+.app_table{
+border: 1px solid black;
+text-align: center;
+}
+.app_main_1{
+    text-align: center;
+    margin: 50px;
+}
+
+
+.app_main_but_{
+text-align: center;
+}
+.app_main_table_1{
+    padding: 0px 20px;
+    background-color: lightgray;
+}
+.app_main_table_2{
+    padding: 0px 20px;
+    background-color: darkgray;
+}
+.app_main_table_3{
+    padding: 0px 20px;
+    background-color: gray
+}
+.app_main_table_4{
+    padding: 0px 20px;
+    background-color:black;
+}
+.app_main_table_tittle{
+margin: 25px 0px;
+font-size: 25px;
+}
+.app_main_about_tittle{
+    text-align: center;
+    font-size: 50px;
+}
+.app_main_about_title{
+    font-size: 25px;
+    margin-top: 70px;
+}
+.app_maina_bout_button{
+    padding: 3px 70px;
+    background-color: rgb(75, 75, 75);
+    border: none;
+}
+.app_main_about_card{
+    margin-top: 40px;
+    margin-right: 5px;
+    width: 350px;
+    border:solid;
+    border-color: rgba(228, 223, 223, 0.918);
+    display: inline-block;
+}
+.app_main_about_card>img{
+    width: 100%;
+}
+.app_main_aboutcard_title{
+    font-size: 25px;
+    padding: 0px 10px;
+}
+.app_main_aboutcard_title2{
+    color: gray;
+    padding: 0px 10px;
+}
+.app_main_about_card_desc{
+    padding: 0px 10px;
+}
+.app_maincontact_title{
+    font-size: 25px;
+    margin-top: 70px;
+}
+.app_maincontact_button{
+    padding: 3px 70px;
+    background-color: rgb(75, 75, 75);
+    border: none;
+}
+.app_maincontact_input{
+    width: 1070px;
+    height: 35px;
+}
+.app_maincontact_button1{
+    width: 1070px;
+    height: 40px;
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+}
+.app_maincontact_button{
+    text-align: center;
+}
+    .app__footer{
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 20px;
+        background-color: rgb(238, 237, 237);
+    }
+    
+    .app__footer>p>a{
+        color: black;
+    }
+    .app_footer_title{
+        font-size: 20px;
+    }
+    .app_footer_button>a{
+        text-decoration: none;
+        color: white;
+    }
+    .app_footer_div{
+        display:inline-block;
+        margin-bottom: 10px;
+    }
+    .app_footer_img{
+       width: 23px;
+       height: 23px;
+       display: inline-block;
+       margin-bottom: 15px ;
+    }
+    .app_footer_img>img{
+        width: 100%;
+    }
